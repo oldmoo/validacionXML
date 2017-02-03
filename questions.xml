@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "questions.dtd">
+
+<questions>
+ <question id='CJP001'>
+  <type>checkbox</type>
+  <tytle>¿Qué es angularJs?</tytle>
+   <option>Es un framework de javaScript para las aplicaciones de SPA</option>
+  <option>Java server page</option> 
+<option>Es un navegador Web</option>
+<answer>0</answer>
+ </question>
+ <question id='CJP002'>
+  <type>text</type>
+  <tytle>¿Qué significa JDBC?</tytle>
+  <answer>Conectividad de bases de datos Java</answer>
+ </question>
+ <question id='CJP003'>
+  <type>select</type>
+  <tytle>¿Quién inventó Java?</tytle>
+  <option>Microsoft</option>
+  <option>Sun Microsystems</option>
+  <option>Ubuntu</option> 
+  <option>Oracle</option>
+  <answer>3</answer> 
+ </question>
+ <question id='CJP004'>
+  <type>radio</type>
+  <tytle>¿En que año fue inventado Java?</tytle>
+  <option>2000</option>
+  <option>1995</option> 
+  <option>1991</option>
+  <answer>1</answer> 
+</question>  
+<question id='CJP005'> 
+ <type>multiple</type>
+  <tytle>¿Que es SPA?</tytle>
+  <option>aplicación web única</option>
+  <option>aplicación web angular</option> 
+  <option>aplicación web de una sola pagina</option>
+  <answer>0,2</answer> 
+</question>
+
+
+
+
+  <question id='CJP006'>
+  <type>radio</type>
+  <tytle>¿Quién ha creado el lenguaje de programación Swift?</tytle>
+  <option>Linux</option>
+  <option>Microsoft</option>
+  <option>Oracle</option>
+  <option>Apple</option>
+  <answer>3</answer>
+ </question>
+ <question id='CJP007'>
+  <type>select</type>
+  <tytle>¿Para que sirve el JDK?</tytle>
+  <option>Programa que sirve para ejecutar aplicaciones móviles.</option>
+  <option>Software que permite ejecutar programas Java.</option> 
+  <option>Hardware para instalar juegos de Java.</option>
+  <option>Para ayudar a los navegadores web en las consultas.</option>
+  <answer>1</answer> 
+ </question>
+ <question id='CJP008'>
+  <type>checkbox</type>
+  <tytle>¿Cuánto cobra mensualmente de media en España un programador WEB?</tytle>
+  <option>2.500</option>
+  <option>1.500</option> 
+  <option>1.000</option>
+  <option>2.221</option>
+  <answer>1</answer> 
+</question>
+
+ <question id='CJP009'>
+  <type>select</type>
+  <tytle>En java,¿ cómo muestras información por pantalla?</tytle>
+  <option>System.out.println(“”);</option>
+  <option>print(“”)</option> 
+  <option>imprimirmensaje (“”)</option>
+  <option>public static void main(String [] Args)</option>
+  <answer>0</answer> 
+</question>
+
+ <question id='CJP010'>
+  <type>multiple</type>
+  <tytle>Señala todos los lenguajes de programación</tytle>
+  <option>JAVA</option>
+  <option>SQL</option> 
+  <option>HTML</option>
+  <option>C++</option>
+  <answer>0, 3</answer> 
+ </question>
+</questions>
